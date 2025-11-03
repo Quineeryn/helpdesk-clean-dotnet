@@ -17,3 +17,4 @@ D:\project\dotnet\Helpdesk\src\Helpdesk.Infrastructure\obj\Debug\net8.0\Helpdesk
 D:\project\dotnet\Helpdesk\src\Helpdesk.Infrastructure\obj\Debug\net8.0\refint\Helpdesk.Infrastructure.dll
 D:\project\dotnet\Helpdesk\src\Helpdesk.Infrastructure\obj\Debug\net8.0\Helpdesk.Infrastructure.pdb
 D:\project\dotnet\Helpdesk\src\Helpdesk.Infrastructure\obj\Debug\net8.0\ref\Helpdesk.Infrastructure.dll
+D:\project\dotnet\Helpdesk\src\Helpdesk.Infrastructure\obj\Debug\net8.0\Helpdesk.Infrastructure.sourcelink.json

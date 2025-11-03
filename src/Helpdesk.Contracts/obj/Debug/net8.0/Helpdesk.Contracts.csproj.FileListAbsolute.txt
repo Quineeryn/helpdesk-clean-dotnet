@@ -9,3 +9,4 @@ D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\Helpdesk.Cont
 D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\refint\Helpdesk.Contracts.dll
 D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\Helpdesk.Contracts.pdb
 D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\ref\Helpdesk.Contracts.dll
+D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\Helpdesk.Contracts.sourcelink.json
