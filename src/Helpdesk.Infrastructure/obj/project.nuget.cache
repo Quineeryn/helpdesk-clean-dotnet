@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wsI2O2/u4iU=",
+  "success": true,
+  "projectFilePath": "D:\\project\\dotnet\\Helpdesk\\src\\Helpdesk.Infrastructure\\Helpdesk.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\meziantou.analyzer\\2.0.163\\meziantou.analyzer.2.0.163.nupkg.sha512"
+  ],
+  "logs": []
+}

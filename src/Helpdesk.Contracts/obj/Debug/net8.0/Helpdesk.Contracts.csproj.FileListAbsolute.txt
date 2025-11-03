@@ -1,0 +1,11 @@
+D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\bin\Debug\net8.0\Helpdesk.Contracts.deps.json
+D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\bin\Debug\net8.0\Helpdesk.Contracts.dll
+D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\bin\Debug\net8.0\Helpdesk.Contracts.pdb
+D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\Helpdesk.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\Helpdesk.Contracts.AssemblyInfoInputs.cache
+D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\Helpdesk.Contracts.AssemblyInfo.cs
+D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\Helpdesk.Contracts.csproj.CoreCompileInputs.cache
+D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\Helpdesk.Contracts.dll
+D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\refint\Helpdesk.Contracts.dll
+D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\Helpdesk.Contracts.pdb
+D:\project\dotnet\Helpdesk\src\Helpdesk.Contracts\obj\Debug\net8.0\ref\Helpdesk.Contracts.dll

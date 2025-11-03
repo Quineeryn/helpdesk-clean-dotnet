@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1QI+K8Ra+Lo=",
+  "success": true,
+  "projectFilePath": "D:\\project\\dotnet\\Helpdesk\\src\\Helpdesk.Contracts\\Helpdesk.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\meziantou.analyzer\\2.0.163\\meziantou.analyzer.2.0.163.nupkg.sha512"
+  ],
+  "logs": []
+}

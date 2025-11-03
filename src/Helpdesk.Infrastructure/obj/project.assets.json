@@ -1,0 +1,175 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Meziantou.Analyzer/2.0.163": {
+        "type": "package"
+      },
+      "Helpdesk.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Helpdesk.Contracts": "1.0.0",
+          "Helpdesk.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Helpdesk.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Helpdesk.Application.dll": {}
+        }
+      },
+      "Helpdesk.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Helpdesk.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Helpdesk.Contracts.dll": {}
+        }
+      },
+      "Helpdesk.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Helpdesk.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Helpdesk.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Meziantou.Analyzer/2.0.163": {
+      "sha512": "vN0YmOkuvPLukMsefLHYCWYaLPzpc6SfoR74aPwuLeK8QdxgxkavywQ1q/II0shLEEaN1RhlMjmL1RxMPW853w==",
+      "type": "package",
+      "path": "meziantou.analyzer/2.0.163",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "analyzers/dotnet/roslyn3.8/cs/Meziantou.Analyzer.CodeFixers.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Meziantou.Analyzer.dll",
+        "analyzers/dotnet/roslyn4.2/cs/Meziantou.Analyzer.CodeFixers.dll",
+        "analyzers/dotnet/roslyn4.2/cs/Meziantou.Analyzer.dll",
+        "analyzers/dotnet/roslyn4.4/cs/Meziantou.Analyzer.CodeFixers.dll",
+        "analyzers/dotnet/roslyn4.4/cs/Meziantou.Analyzer.dll",
+        "analyzers/dotnet/roslyn4.6/cs/Meziantou.Analyzer.CodeFixers.dll",
+        "analyzers/dotnet/roslyn4.6/cs/Meziantou.Analyzer.dll",
+        "analyzers/dotnet/roslyn4.8/cs/Meziantou.Analyzer.CodeFixers.dll",
+        "analyzers/dotnet/roslyn4.8/cs/Meziantou.Analyzer.dll",
+        "icon.png",
+        "meziantou.analyzer.2.0.163.nupkg.sha512",
+        "meziantou.analyzer.nuspec"
+      ]
+    },
+    "Helpdesk.Application/1.0.0": {
+      "type": "project",
+      "path": "../Helpdesk.Application/Helpdesk.Application.csproj",
+      "msbuildProject": "../Helpdesk.Application/Helpdesk.Application.csproj"
+    },
+    "Helpdesk.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Helpdesk.Contracts/Helpdesk.Contracts.csproj",
+      "msbuildProject": "../Helpdesk.Contracts/Helpdesk.Contracts.csproj"
+    },
+    "Helpdesk.Core/1.0.0": {
+      "type": "project",
+      "path": "../Helpdesk.Core/Helpdesk.Core.csproj",
+      "msbuildProject": "../Helpdesk.Core/Helpdesk.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Helpdesk.Application >= 1.0.0",
+      "Helpdesk.Core >= 1.0.0",
+      "Meziantou.Analyzer >= 2.0.163"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\project\\dotnet\\Helpdesk\\src\\Helpdesk.Infrastructure\\Helpdesk.Infrastructure.csproj",
+      "projectName": "Helpdesk.Infrastructure",
+      "projectPath": "D:\\project\\dotnet\\Helpdesk\\src\\Helpdesk.Infrastructure\\Helpdesk.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "D:\\project\\dotnet\\Helpdesk\\src\\Helpdesk.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\project\\dotnet\\Helpdesk\\src\\Helpdesk.Application\\Helpdesk.Application.csproj": {
+              "projectPath": "D:\\project\\dotnet\\Helpdesk\\src\\Helpdesk.Application\\Helpdesk.Application.csproj"
+            },
+            "D:\\project\\dotnet\\Helpdesk\\src\\Helpdesk.Core\\Helpdesk.Core.csproj": {
+              "projectPath": "D:\\project\\dotnet\\Helpdesk\\src\\Helpdesk.Core\\Helpdesk.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Meziantou.Analyzer": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[2.0.163, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\project\dotnet\Helpdesk\src\Helpdesk.Core\bin\Debug\net8.0\Helpdesk.Core.deps.json
+D:\project\dotnet\Helpdesk\src\Helpdesk.Core\bin\Debug\net8.0\Helpdesk.Core.dll
+D:\project\dotnet\Helpdesk\src\Helpdesk.Core\bin\Debug\net8.0\Helpdesk.Core.pdb
+D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\Helpdesk.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\Helpdesk.Core.AssemblyInfoInputs.cache
+D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\Helpdesk.Core.AssemblyInfo.cs
+D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\Helpdesk.Core.csproj.CoreCompileInputs.cache
+D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\Helpdesk.Core.dll
+D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\refint\Helpdesk.Core.dll
+D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\Helpdesk.Core.pdb
+D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\ref\Helpdesk.Core.dll

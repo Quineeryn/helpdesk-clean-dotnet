@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup Condition="'$(MSBuildProjectName)' == 'Helpdesk.Api'">
+    <!-- Mencegah referensi tidak sengaja di layer presentasi -->
+    <NoWarn>$(NoWarn);1701;1702</NoWarn>
+  </PropertyGroup>
+
+  <!-- Fail build kalau ada referensi terlarang (opsional sederhana via analyzers) -->
+  <ItemGroup>
+    <PackageReference Include="Meziantou.Analyzer" Version="2.0.163" PrivateAssets="all" />
+  </ItemGroup>
+</Project>
