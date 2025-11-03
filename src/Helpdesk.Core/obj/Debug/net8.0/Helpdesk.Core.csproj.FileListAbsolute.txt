@@ -9,3 +9,4 @@ D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\Helpdesk.Core.dll
 D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\refint\Helpdesk.Core.dll
 D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\Helpdesk.Core.pdb
 D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\ref\Helpdesk.Core.dll
+D:\project\dotnet\Helpdesk\src\Helpdesk.Core\obj\Debug\net8.0\Helpdesk.Core.sourcelink.json

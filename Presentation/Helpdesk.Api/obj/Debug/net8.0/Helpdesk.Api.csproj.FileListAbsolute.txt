@@ -41,3 +41,4 @@ D:\project\dotnet\Helpdesk\Presentation\Helpdesk.Api\obj\Debug\net8.0\refint\Hel
 D:\project\dotnet\Helpdesk\Presentation\Helpdesk.Api\obj\Debug\net8.0\Helpdesk.Api.pdb
 D:\project\dotnet\Helpdesk\Presentation\Helpdesk.Api\obj\Debug\net8.0\Helpdesk.Api.genruntimeconfig.cache
 D:\project\dotnet\Helpdesk\Presentation\Helpdesk.Api\obj\Debug\net8.0\ref\Helpdesk.Api.dll
+D:\project\dotnet\Helpdesk\Presentation\Helpdesk.Api\obj\Debug\net8.0\Helpdesk.Api.sourcelink.json
