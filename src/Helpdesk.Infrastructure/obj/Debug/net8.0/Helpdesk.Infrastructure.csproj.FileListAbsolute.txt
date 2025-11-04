@@ -18,3 +18,5 @@ D:\project\dotnet\Helpdesk\src\Helpdesk.Infrastructure\obj\Debug\net8.0\refint\H
 D:\project\dotnet\Helpdesk\src\Helpdesk.Infrastructure\obj\Debug\net8.0\Helpdesk.Infrastructure.pdb
 D:\project\dotnet\Helpdesk\src\Helpdesk.Infrastructure\obj\Debug\net8.0\ref\Helpdesk.Infrastructure.dll
 D:\project\dotnet\Helpdesk\src\Helpdesk.Infrastructure\obj\Debug\net8.0\Helpdesk.Infrastructure.sourcelink.json
+D:\project\dotnet\Helpdesk\src\Helpdesk.Infrastructure\bin\Debug\net8.0\Helpdesk.Infrastructure.runtimeconfig.json
+D:\project\dotnet\Helpdesk\src\Helpdesk.Infrastructure\obj\Debug\net8.0\Helpdesk.Infrastructure.genruntimeconfig.cache
