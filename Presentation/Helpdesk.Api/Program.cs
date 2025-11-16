@@ -1,3 +1,4 @@
+using System.Text.Json.Serialization;
 using Helpdesk.Application;
 using Helpdesk.Infrastructure.DependencyInjection;
 using Serilog;
@@ -15,7 +16,13 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration);
 
-builder.Services.AddControllers();
+builder.Services
+    .AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
+    });
+
 
 var app = builder.Build();
 
