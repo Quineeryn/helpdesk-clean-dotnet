@@ -30,17 +30,18 @@ public sealed class CreateTicketHandler(
         await repo.AddAsync(entity, ct);
         await uow.SaveChangesAsync(ct);
 
-        return new TicketResponse(
-            entity.Id,
-            entity.Title,
-            entity.Description,
-            entity.Status.ToContractString(),
-            entity.Priority.ToContractString(),
-            entity.AssigneeId,
-            entity.ReporterId,
-            entity.SprintId,
-            entity.DueAt,
-            entity.CreatedAt
-        );
+        return new TicketResponse
+        {
+            Id = entity.Id,
+            Title = entity.Title,
+            Description = entity.Description,
+            Status = entity.Status.ToContractString(),
+            Priority = entity.Priority.ToContractString(),
+            AssigneeId = entity.AssigneeId,
+            ReporterId = entity.ReporterId,
+            SprintId = entity.SprintId,
+            DueAt = entity.DueAt?.UtcDateTime,          // konversi aman ke DateTime?
+            CreatedAt = entity.CreatedAt.UtcDateTime
+        };
     }
 }

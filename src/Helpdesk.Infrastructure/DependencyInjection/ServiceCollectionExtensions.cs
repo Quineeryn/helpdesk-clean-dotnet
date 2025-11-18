@@ -15,6 +15,7 @@ public static class ServiceCollectionExtensions
     {
         var cs = cfg.GetConnectionString("Default")
                  ?? throw new InvalidOperationException("ConnectionStrings:Default not configured");
+        Console.WriteLine($"Using connection string: {cs}");
 
         services.AddDbContext<AppDbContext>(o =>
             o.UseNpgsql(cs).UseSnakeCaseNamingConvention());
